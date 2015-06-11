@@ -1,2 +1,1 @@
-# picryl-api
-Picryl API Documentation
+# Picryl API 2.0
