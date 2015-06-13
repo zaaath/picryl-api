@@ -15,14 +15,14 @@ You can try our API in [console]() (http://bitly.com/apiPicryl)
 
 ## Basics
 
-- **[Formats and Terms]()**
-- **[API Terms of Use]()**
+- **[Formats and Terms](https://github.com/picryl/picryl-api/blob/master/basics/formats_and_terms.md)**
+- **[API Terms of Use](https://github.com/picryl/picryl-api/blob/master/basics/terms_of_use.md)**
 
 ## Endpoints
 
 #### Photo Resources
-- **[<code>GET</code> photos]()**
-- **[<code>GET</code> photos/:id]()**
+- **[<code>GET</code> photos](https://github.com/picryl/picryl-api/blob/master/endpoints/photo/GET_photos.md)**
+- **[<code>GET</code> photos/:id](https://github.com/picryl/picryl-api/blob/master/endpoints/photo/GET_photos_id.md)**
 
 #### Tag Resources
 - **[<code>GET</code> tags]()**
