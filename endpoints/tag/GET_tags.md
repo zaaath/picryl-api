@@ -6,6 +6,8 @@
 Returns a listing of twenty (up to one hundred) tags matching some criteria.
 ***
 
+
+## Parameters
 - **starts_with** — String fragment to search for.
 - **page** — Return a specific page in the photo stream. Page numbering is 1-based.
 - **rpp** — The number of results to return. Can not be over 100, default 20.
