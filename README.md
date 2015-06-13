@@ -25,4 +25,4 @@ You can try our API in [console]() (http://bitly.com/apiPicryl)
 - **[<code>GET</code> photos/:id](https://github.com/picryl/picryl-api/blob/master/endpoints/photo/GET_photos_id.md)**
 
 #### Tag Resources
-- **[<code>GET</code> tags]()**
+- **[<code>GET</code> tags](https://github.com/picryl/picryl-api/blob/master/endpoints/tag/GET_tags.md)**
