@@ -54,7 +54,7 @@ None
   "current_page": 1,
   "total_pages": 250,
   "total_items": 5000,
-  "photos": [
+  "items": [
     {
       "id": "4910421",
       "name": "Franklin before the lord's council, Whitehall Chapel, London, 1774",
