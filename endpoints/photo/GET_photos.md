@@ -44,4 +44,41 @@ None
 ***
 
 ## Example
-???
+**Request**
+
+    http://46.101.149.102/api/v2/photos?tags=london
+
+**Return** __shortened for example purpose__
+``` json
+{
+  "current_page": 1,
+  "total_pages": 250,
+  "total_items": 5000,
+  "photos": [
+    {
+      "id": "4910421",
+      "name": "Franklin before the lord's council, Whitehall Chapel, London, 1774",
+      "min_created_date": "1774-01-01",
+      "max_created_date": "1774-01-01",
+      "tags": [
+        "franklin",
+        "chapel",
+        "whitehall chapel",
+        "london"
+      ],
+      "location": "London",
+      "latitude": 51.5123793,
+      "longitude": -0.1244296,
+      "creators": [
+        {
+            "role": "engraver",
+            "title": "Whitechurch, Robert, 1814-approximately 1880"
+        }
+      ],
+      "source_name": "Library of Congress",
+      "source_url": "http://www.loc.gov/pictures/item/00650385/",
+      "images": []
+    }
+  ]
+}
+```
