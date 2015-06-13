@@ -26,7 +26,7 @@ You'll find the URLs to the image(s) for a photo in the `images` field in the re
 
 <!--**Important** - You must not alter the URLs returned by the API in any way. Instead, please use the `image_size` parameter to request the sizes your application needs.-->
 
-# TODO what if size not available for image?
+`TODO what if size not available for image?`
 
 Picryl has a number of preset image sizes.  Most API requests that return image URLs can be instructed to return the URLs for one or more specific sizes.  To retrieve the URL for a specific image size, include that size's ID in the query string of the request, using the `image_size` parameter:
 
