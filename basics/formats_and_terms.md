@@ -29,12 +29,23 @@ You'll find the URLs to the image(s) for a photo in the `images` field in the re
 Picryl has a number of preset image sizes.  
 
 These are the standard cropped sizes:
-- 100px x 100px
-- 200px x 200px
+<table id="image_sizes">
+  <tr>
+    <th>ID</th>
+    <th>Dimensions</th>
+  </tr>
+  <tr><td>100</td><td>100px x 100px</td></tr>
+  <tr><td>200</td><td>200px x 200px</td></tr>
+</table>
 
 These are the standard uncropped sizes:
-- 1024px on the longest edge
-- 640px on the longest edge
- 
+<table id="image_sizes">
+  <tr>
+    <th>ID</th>
+    <th>Dimensions</th>
+  </tr>
+  <tr><td>640</td><td>640px on the longest edge</td></tr>
+  <tr><td>1024</td><td>1024px on the longest edge</td></tr>
+</table>
 
 ***
