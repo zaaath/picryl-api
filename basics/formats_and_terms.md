@@ -26,47 +26,13 @@ You'll find the URLs to the image(s) for a photo in the `images` field in the re
 
 <!--**Important** - You must not alter the URLs returned by the API in any way. Instead, please use the `image_size` parameter to request the sizes your application needs.-->
 
-`TODO what if size not available for image?`
-
-Picryl has a number of preset image sizes.  Most API requests that return image URLs can be instructed to return the URLs for one or more specific sizes.  To retrieve the URL for a specific image size, include that size's ID in the query string of the request, using the `image_size` parameter:
-
-```
-GET /v2/photos?image_size=3
-```
-
-If you want to request multiple sizes, you can pass an comma separated value for `image_size` as well:
-```
-GET /v1/photos?image_size=2,600
-```
+Picryl has a number of preset image sizes.  
 
 These are the standard cropped sizes:
-<table id="image_sizes">
-  <tr>
-    <th>ID</th>
-    <th>Dimensions</th>
-  </tr>
-  <tr><td>1</td><td>70px x 70px</td></tr>
-  <tr><td>2</td><td>140px x 140px</td></tr>
-  <tr><td>3</td><td>280px x 280px</td></tr>
-  <tr><td>100</td><td>100px x 100px</td></tr>
-  <tr><td>200</td><td>200px x 200px</td></tr>
-  <tr><td>440</td><td>440px x 440px</td></tr>
-  <tr><td>600</td><td>600px x 600px</td></tr>
-</table>
+- 100px x 100px
+- 200px x 200px
 
 These are the standard uncropped sizes:
-<table id="image_sizes">
-  <tr>
-    <th>ID</th>
-    <th>Dimensions</th>
-  </tr>
-  <tr><td>4</td><td>900px on the longest edge</td></tr>
-  <tr><td>5</td><td>1170px on the longest edge</td></tr>
-  <tr><td>20</td><td>300px high</td></tr>
-  <tr><td>21</td><td>600px high</td></tr>
-  <tr><td>30</td><td>256px on the longest edge</td></tr>
-  <tr><td>1080</td><td>1080px on the longest edge</td></tr>
-  <tr><td>1600</td><td>1600px on the longest edge</td></tr>
-  <tr><td>2048</td><td>2048px on the longest edge</td></tr>
-</table>
+- 1024px on the longest edge
+- 640px on the longest edge
 ***
