@@ -37,8 +37,8 @@ All known errors cause the resource to return HTTP error code header together wi
 {
   "id": "4910421",
   "name": "Franklin before the lord's council, Whitehall Chapel, London, 1774",
-  "min_created_date": "1774-01-01",
-  "max_created_date": "1774-01-01",
+  "min_created_date": "1774-01-01T00:00:00.000Z",
+  "max_created_date": "1775-01-01T00:00:00.000Z",
   "tags": [
     "franklin",
     "chapel",
