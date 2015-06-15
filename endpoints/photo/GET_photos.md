@@ -13,7 +13,6 @@ Returns a listing of twenty (up to one hundred) photos matching some criteria.
 - **created_date_to** - If specified, include only images created on or before this date. Dates should be submitted in ISO 8601 format (i.e., YYYY-MM-DD).
 - **page** — Return a specific page in the photo stream. Page numbering is 1-based.
 - **rpp** — The number of results to return. Can not be over 100, default 20.
-- **image_size** — The photo size(s) to be returned. See the documentation on **[photo sizes](https://github.com/picryl/picryl-api/blob/master/basics/formats_and_terms.md#image-sizes)**.
 - **fields** - Comma separated list of fields. Allows restricting which fields are returned. If no fields are selected, all fields are returned.	
 - **sort** — Sort photos in the specified order. 
     ###### Recognized values:
