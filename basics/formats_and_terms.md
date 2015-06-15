@@ -35,4 +35,6 @@ These are the standard cropped sizes:
 These are the standard uncropped sizes:
 - 1024px on the longest edge
 - 640px on the longest edge
+ 
+
 ***
