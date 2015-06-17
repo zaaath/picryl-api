@@ -4,7 +4,7 @@ Picryl API provides programmatic access to Picryl content.
 
 The API is REST API. Return format for all endpoints is JSON.
 
-You can try our API in [console]() (http://bitly.com/apiPicryl)
+You can try our API in [console](http://46.101.149.102/docs) (http://46.101.149.102/docs)
 
 ***
 
