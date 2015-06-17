@@ -9,7 +9,6 @@ Returns detailed information of a single photo.
 
 ## Parameters
 
-- **image_size** — The photo size(s) to be returned. See the documentation on **[photo sizes](https://github.com/picryl/picryl-api/blob/master/basics/formats_and_terms.md#image-sizes)**.
 - **fields** - Comma separated list of fields. Allows restricting which fields are returned. If no fields are selected, all fields are returned.
 
 ***
