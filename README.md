@@ -10,7 +10,7 @@ You can try our API in [console](http://46.101.149.102/docs) (http://46.101.149.
 
 ## Changes
 
-* 2015-06-17 API 2.0 was released.
+* 2015-06-17 API 2.0 BETA release.
 
 
 ## Basics
