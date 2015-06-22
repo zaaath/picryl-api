@@ -11,6 +11,11 @@ Returns a listing of twenty (up to one hundred) tags matching some criteria.
 - **starts_with** — String fragment to search for.
 - **page** — Return a specific page. Page numbering is 1-based.
 - **rpp** — The number of results to return. Can not be over 100, default 20.
+- **sort** — Sort photos in the specified order. 
+    ###### Recognized values:
+    - 'times_viewed' — Sort by view count
+    - 'created_date' — Sort by created date
+     
 
 ***
 
