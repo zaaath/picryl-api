@@ -14,6 +14,7 @@ Returns a listing of twenty (up to one hundred) photos matching some criteria.
 - **page** — Return a specific page. Page numbering is 1-based.
 - **rpp** — The number of results to return. Can not be over 100, default 20.
 - **fields** - Comma separated list of fields. Allows restricting which fields are returned. If no fields are selected, all fields are returned.	
+- **recommend_tags** - If set to 1, returns an array of recommended tags for the query.
 - **sort** — Sort photos in the specified order. 
     ###### Recognized values:
     - 'times_viewed' — Sort by view count
