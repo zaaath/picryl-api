@@ -55,7 +55,7 @@ None
   "current_page": 1,
   "total_pages": 250,
   "total_items": 5000,
-  "recommended_tags": ["winston сhurchill", "british museum", "world war ii"]
+  "recommended_tags": ["winston сhurchill", "british museum", "world war ii"],
   "items": [
     {
       "id": "4910421",
