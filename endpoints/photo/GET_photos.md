@@ -35,6 +35,7 @@ An array with the following keys and values:
 - **total_pages** — Total number of pages matching specified criteria.
 - **total_items** — Total number of items matching specified criteria.
 - **items** — An array of Photo objects.
+- **recommended_tags** - An array of recommended tags.
 
 ***
 
@@ -46,7 +47,7 @@ None
 ## Example
 **Request**
 
-    http://46.101.149.102/api/v2/photos?tags=london
+    http://46.101.149.102/api/v2/photos?tags=london&recommend_tags=1
 
 **Return** __shortened for example purpose__
 ``` json
@@ -54,6 +55,7 @@ None
   "current_page": 1,
   "total_pages": 250,
   "total_items": 5000,
+  "recommended_tags": ["winston сhurchill", "british museum", "world war ii"]
   "items": [
     {
       "id": "4910421",
