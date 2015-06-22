@@ -48,10 +48,10 @@ All known errors cause the resource to return HTTP error code header together wi
   "latitude": 51.5123793,
   "longitude": -0.1244296,
   "creators": [
-    {
-        "role": "engraver",
-        "title": "Whitechurch, Robert, 1814-approximately 1880"
-    }
+        {
+            "role": "engraver",
+            "title": "Whitechurch, Robert, 1814-approximately 1880"
+        }
   ],
   "source_name": "Library of Congress",
   "source_url": "http://www.loc.gov/pictures/item/00650385/",
