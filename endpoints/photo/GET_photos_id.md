@@ -29,7 +29,7 @@ All known errors cause the resource to return HTTP error code header together wi
 ## Example
 **Request**
 
-    http://46.101.149.102/api/v2/photos/4910421
+    http://getarchive.net/api/v2/photos/4910421
 
 **Return** __shortened for example purpose__
 ``` json
