@@ -47,7 +47,7 @@ None
 ## Example
 **Request**
 
-    http://46.101.149.102/api/v2/photos?tags=london&recommend_tags=1
+    http://getarchive.net/api/v2/photos?tags=london&recommend_tags=1
 
 **Return** __shortened for example purpose__
 ``` json
