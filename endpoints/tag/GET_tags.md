@@ -39,7 +39,7 @@ None
 ## Example
 **Request**
 
-    http://46.101.149.102/api/v2/tags?starts_with=lond
+    http://getarchive.net/api/v2/tags?starts_with=lond
 
 **Return** __shortened for example purpose__
 ``` json
