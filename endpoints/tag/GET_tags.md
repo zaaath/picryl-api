@@ -39,7 +39,7 @@ None
 ## Example
 **Request**
 
-    http://getarchive.net/api/v2/tags?starts_with=lond
+    http://api.getarchive.net/v2/tags?starts_with=lond
 
 **Return** __shortened for example purpose__
 ``` json
@@ -51,11 +51,11 @@ None
     {
       "id": "london",
       "thumbs": [
-        "http://lcweb2.loc.gov/service/pnp/habshaer/va/va0900/va0974/photos/165168p_150px.jpg",
-        "http://lcweb2.loc.gov/service/pnp/habshaer/va/va0900/va0974/photos/165169p_150px.jpg",
-        "http://lcweb2.loc.gov/service/pnp/habshaer/va/va0900/va0974/photos/165170p_150px.jpg",
-        "http://lcweb2.loc.gov/service/pnp/habshaer/va/va0900/va0974/sheet/00001_150px.jpg",
-        "http://lcweb2.loc.gov/service/pnp/habshaer/va/va0900/va0974/sheet/00002_150px.jpg"
+        "http://d1qb4gn8ltk7f1.cloudfront.net/100/ca0625.photos.016843p.jpg",
+        "http://d1qb4gn8ltk7f1.cloudfront.net/100/ca0625.photos.016856p.jpg",
+        "http://d1qb4gn8ltk7f1.cloudfront.net/100/ca0625.photos.165170p.jpg",
+        "http://d1qb4gn8ltk7f1.cloudfront.net/100/ca0625.photos.016878p.jpg",
+        "http://d1qb4gn8ltk7f1.cloudfront.net/100/ca0625.photos.165179p.jpg"
       ],
       "count": 5157
     }
