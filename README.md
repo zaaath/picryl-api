@@ -4,12 +4,13 @@ Picryl API provides programmatic access to Picryl content.
 
 The API is REST API. Return format for all endpoints is JSON.
 
-You can try our API in [console](http://getarchive.net/docs) (http://getarchive.net/docs)
+You can try our API in [console](http://api.getarchive.net/swagger) (http://api.getarchive.net/swagger)
 
 ***
 
 ## Changes
 
+* 2015-06-30 New base path is api.getarchive.net.
 * 2015-06-17 API 2.0 BETA release.
 
 
