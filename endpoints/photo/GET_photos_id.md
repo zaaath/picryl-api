@@ -29,7 +29,7 @@ All known errors cause the resource to return HTTP error code header together wi
 ## Example
 **Request**
 
-    http://getarchive.net/api/v2/photos/4910421
+    http://api.getarchive.net/v2/photos/4910421
 
 **Return** __shortened for example purpose__
 ``` json
@@ -58,19 +58,19 @@ All known errors cause the resource to return HTTP error code header together wi
   "images": [
     {
         "size": 100,
-        "url": "http://getarchive.net/media/images/100/ca0632.photos.016181p.jpg"
+        "url": "http://d1qb4gn8ltk7f1.cloudfront.net/100/ca0632.photos.016181p.jpg"
     },
     {
         "size": 200,
-        "url": "http://getarchive.net/media/images/200/ca0632.photos.016181p.jpg"
+        "url": "http://d1qb4gn8ltk7f1.cloudfront.net/200/ca0632.photos.016181p.jpg"
     },
     {
         "size": 640,
-        "url": "http://getarchive.net/media/images/640/ca0632.photos.016181p.jpg"
+        "url": "http://d1qb4gn8ltk7f1.cloudfront.net/640/ca0632.photos.016181p.jpg"
     },
     {
         "size": 1024,
-        "url": "http://getarchive.net/media/images/1024/ca0632.photos.016181p.jpg"
+        "url": "http://d3mld3sq8wfq8f.cloudfront.net/1024/ca0632.photos.016181p.jpg"
     }
    ]
 }
