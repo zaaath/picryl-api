@@ -12,6 +12,7 @@ You can try our API in [console](http://api.getarchive.net/swagger) (http://api.
 
 * 2015-06-30 New base path is api.getarchive.net.
 * 2015-06-17 API 2.0 BETA release.
+* 2015-08-06 Fixed typo "tranding" in the tag list request.
 
 
 ## Basics
