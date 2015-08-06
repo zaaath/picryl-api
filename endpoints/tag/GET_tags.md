@@ -16,7 +16,7 @@ Returns a listing of twenty (up to one hundred) tags matching some criteria.
 - **sort** — Sort tags in the specified order.
     ###### Recognized values:
     - 'frequency' — The most frequent tags first. This is the default.
-    - 'tranding' — tranding tags first
+    - 'trending' — trending tags first
 
 
 ***
