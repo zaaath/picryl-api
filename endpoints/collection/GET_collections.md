@@ -34,7 +34,7 @@ None
 ## Example
 **Request**
 
-    http://api.getarchive.net/v2/collections
+    http://api.getarchive.net/v2/collections?include_photos=5
 
 TODO example response
 
