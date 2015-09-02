@@ -1,4 +1,4 @@
-# Photo Resources
+# Collection Resources
 
     GET collections
 
