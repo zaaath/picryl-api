@@ -33,7 +33,7 @@ None
 ## Example
 **Request**
 
-    http://api.getarchive.net/v2/photos?tags=london&recommend_tags=1
+    http://api.getarchive.net/v2/collection/79c1a9572a1918d2f239f446ed11f01e/photos
 
 **Return** __shortened for example purpose__
 ``` json
