@@ -10,7 +10,7 @@ Returns detailed information of a single collection.
 ## Parameters
 
 - **fields** - Comma separated list of fields. Allows restricting which fields are returned. If no fields are selected, all fields are returned.
-- **include_photos** - The number of collection photos to include. Can not be over 20. If not specified, the photos will not be included in the response.
+- **include_photos** - The number of collection photos to include. Can not be over 20.
 
 ***
 
@@ -37,7 +37,7 @@ All known errors cause the resource to return HTTP error code header together wi
 {
   "id": "79c1a9572a1918d2f239f446ed11f01e",
   "name": "Frank Meadow Sutcliffe (England, 1853-1941)",
-  "total_items": 24,
+  "total_photos": 24,
   "photos": [
     {
       "id": "3368ad59420edba4f60195afd4203a95",
