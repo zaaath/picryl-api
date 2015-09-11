@@ -30,7 +30,7 @@ All known errors cause the resource to return HTTP error code header together wi
 ## Example
 **Request**
 
-    http://api.getarchive.net/v2/collection/79c1a9572a1918d2f239f446ed11f01e?include_photos=5
+    http://api.getarchive.net/v2/collections/79c1a9572a1918d2f239f446ed11f01e?include_photos=5
 
 **Return** __shortened for example purpose__
 ``` json
